@@ -1,0 +1,12 @@
+.service{
+    padding-bottom: 30px;
+}
+.content{
+    background-color: cadetblue;
+    min-height: 100px;
+    margin-bottom: 10px;
+}
+.h1{
+    text-align: center;
+    font-size: 36px;
+}
